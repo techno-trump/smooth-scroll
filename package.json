@@ -1,0 +1,29 @@
+{
+  "name": "@techno-tramp/smooth-scroll",
+  "version": "1.0.0",
+  "description": "Smooth scroll based on native scroll both, on controller side and content side. Thanks that supports all native features. Additionaly includes feature that provides ability to set virtual section height, which makes possible animate something inside a section by scrolling, without scrolling themself.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techno-trump/smooth-scroll.git"
+  },
+  "keywords": [
+    "smooth",
+    "scroll",
+    "virtual",
+    "hook",
+    "trigger"
+  ],
+  "author": "Anton Kalinichenko",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/techno-trump/smooth-scroll/issues"
+  },
+  "homepage": "https://github.com/techno-trump/smooth-scroll#readme",
+  "devDependencies": {
+    "eventemitter3": "^5.0.1"
+  }
+}
